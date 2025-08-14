@@ -9,7 +9,7 @@
             "calculator_preview.png"
         ],
         "icon": "logo.png",
-        "source_url": "https://github.com/Goge052215/MaxTab",
+        "source_url": "https://github.com/Goge052215/maxtab-source",
         "author": [
             {
                 "name": "Goge052215",
@@ -27,4 +27,5 @@
             "file_name": "com.application.watch.demo.debug.1.0.0.rpk"
         }
     }
+
 }
