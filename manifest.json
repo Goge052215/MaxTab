@@ -1,0 +1,30 @@
+{
+    "item": {
+        "name": "MaxTab",
+        "description": "为小米手环10打造的概率统计计算器",
+        "preview": [
+            "lobby_preview.png",
+            "param_input_preview.png",
+            "result_preview.png",
+            "calculator_preview.png"
+        ],
+        "icon": "logo.png",
+        "source_url": "https://github.com/Goge052215/MaxTab",
+        "author": [
+            {
+                "name": "Goge052215",
+                "author_url": "https://github.com/Goge052215"
+            }
+        ]
+    },
+    "downloads": {
+        "o66": {
+            "version": "1.0",
+            "file_name": "com.application.watch.demo.debug.1.0.0.rpk"
+        },
+        "o66nfc": {
+            "version": "1.0",
+            "file_name": "com.application.watch.demo.debug.1.0.0.rpk"
+        }
+    }
+}
