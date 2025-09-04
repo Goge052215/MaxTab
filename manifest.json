@@ -1,7 +1,7 @@
 {
     "item": {
         "name": "MaxTab",
-        "description": "为小米手环10打造的概率统计计算器",
+        "description": "为小米手环10打造的概率统计计算器，支持16种分布计算",
         "preview": [
             "lobby_preview.png",
             "param_input_preview.png",
@@ -20,12 +20,13 @@
     "downloads": {
         "o66": {
             "version": "1.0",
-            "file_name": "com.application.watch.demo.debug.1.0.0.rpk"
+            "file_name": "com.application.watch.demo.debug.V1.0.2.rpk"
         },
         "o66nfc": {
             "version": "1.0",
-            "file_name": "com.application.watch.demo.debug.1.0.0.rpk"
+            "file_name": "com.application.watch.demo.debug.V1.0.2.rpk"
         }
     }
 
 }
+
