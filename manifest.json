@@ -20,13 +20,14 @@
     "downloads": {
         "o66": {
             "version": "1.0",
-            "file_name": "com.application.watch.demo.debug.V1.0.2.rpk"
+            "file_name": "com.application.watch.demo.release.V1.0.3.rpk"
         },
         "o66nfc": {
             "version": "1.0",
-            "file_name": "com.application.watch.demo.debug.V1.0.2.rpk"
+            "file_name": "com.application.watch.demo.release.V1.0.3.rpk"
         }
     }
 
 }
+
 
